@@ -4,4 +4,4 @@ The project consists to extract all relevant data from the 5000 most played Stea
 
 The pynb file contains the code used for the webscrape. In the excel file you can see the final result.
 
-N.B. The prices of some games in the excel file are expressed in Taiwanese dollars. The reason for that is because the store pages for those games aren't accessible from the European region and thus aren't priced in euros.
+N.B. The prices of some games in the excel file are expressed in Taiwanese dollars. The reason for that is because the store pages for these games aren't accessible from the European region and thus aren't priced in euros.
